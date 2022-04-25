@@ -1,0 +1,21 @@
+{
+  "name": "discord-curso",
+  "version": "1.0.0",
+  "description": "Curso de discord con Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliyya/curso-discord.git"
+  },
+  "keywords": [],
+  "author": "eliyya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eliyya/curso-discord/issues"
+  },
+  "homepage": "https://github.com/eliyya/curso-discord#readme"
+}
